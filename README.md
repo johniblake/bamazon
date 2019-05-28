@@ -1,8 +1,10 @@
+<!DOCTYPE html>
+
 # bamazon
 
 A basic exercise for querying and updating a MySQL database using node and the terminal.
 
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/IS7J--SFXv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IS7J--SFXv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. To run bamazonCustomer.js first, create a MySQL server and hook it up to MySQLWorkbench. Copy the contents of bamazon_seed.sql into a new tab in MySQLWorkbench and execute it to initialize your store.
 
