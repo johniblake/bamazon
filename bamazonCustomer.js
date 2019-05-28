@@ -26,10 +26,8 @@ async function init() {
         //perform order
         await service.makeOrder(order);
       } else {
-        console.log(`\nYOU    BROKE    ME\n`.zalgo.dim);
+        console.log(`Invalid Request. Try again.`.inverse);
         await delay(2000);
-        console.log(`\r\r\r...just kidding, try harder.`);
-        await delay(1500);
       }
     } catch (err) {
       console.log(err);
